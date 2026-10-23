@@ -3,7 +3,7 @@
   "type": "system",
   "title": "Dark Heresy 2E [Apex Edition]",
   "description": "Dark Heresy 2nd Edition for Foundry Virtual Tabletop, with automated combat, psychic powers, vehicles and the rulebook's content in compendiums.",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "compatibility": {
     "minimum": "14",
     "verified": "14",
@@ -317,5 +317,5 @@
   "url": "https://github.com/xalatathzx-art/dark-heresy2e-apex-release",
   "bugs": "https://github.com/xalatathzx-art/dark-heresy2e-apex-release/issues",
   "manifest": "https://github.com/xalatathzx-art/dark-heresy2e-apex-release/releases/latest/download/system.json",
-  "download": "https://github.com/xalatathzx-art/dark-heresy2e-apex-release/releases/download/v0.1.7/dark-heresy-2e-apex.zip"
+  "download": "https://github.com/xalatathzx-art/dark-heresy2e-apex-release/releases/download/v0.1.8/dark-heresy-2e-apex.zip"
 }
